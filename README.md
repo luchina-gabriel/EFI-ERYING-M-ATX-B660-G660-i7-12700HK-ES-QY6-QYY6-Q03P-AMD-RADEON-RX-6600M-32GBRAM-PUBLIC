@@ -1,5 +1,7 @@
 # Hackintosh, Erying M-ATX B660/G660, Intel Core i9 12900HK ES QY6 QYY6 Q03P, AMD Radeon RX 6600M
 
+![Overview](https://github.com/user-attachments/assets/1db99cdc-578e-44a9-8a0b-3a6033ab6aed)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
